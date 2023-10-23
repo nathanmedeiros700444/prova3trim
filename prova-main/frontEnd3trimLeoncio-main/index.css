@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+    background-color: rgb mediumaquamarine;
+}
+header{
+    background-color: black;
+    padding: 7em;
+    margin-bottom: 0%;
+    width: 100%
+} 
+main{
+    background-color: mediumaquamarine;
+    width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 0%;
+    padding: 30px;
+    height: fit-content;
+}
+p{
+    size: 60px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
